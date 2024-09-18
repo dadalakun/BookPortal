@@ -1,0 +1,24 @@
+[
+  {
+    "itemType": "Audiobook",
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "summary": "The former First Lady's memoir, reflecting on her personal and public life.",
+    "currentHolder": [],
+    "pastHolders": [],
+    "lastCheckedOutDate": "2024-03-31T16:27:45Z",
+    "quantity": 2,
+    "borrowedCount": 0
+  },
+  {
+    "itemType": "Game",
+    "title": "Cyberpunk 2077",
+    "author": "CD Projekt",
+    "summary": "An open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour, and body modification.",
+    "currentHolder": [],
+    "pastHolders": [],
+    "lastCheckedOutDate": "2024-04-03T14:30:12Z",
+    "quantity": 2,
+    "borrowedCount": 0
+  }
+]
